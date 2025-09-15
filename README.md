@@ -26,7 +26,12 @@ npm run dev
 ```
 
 The app will be available at `http://localhost:5173` (default Vite port).
-or at `https://contract-manager-dashboard.vercel.app/`
+
+
+or at
+```bash
+https://contract-manager-dashboard.vercel.app/
+```
 
 ## Mock Login Details (for Testing)
 
