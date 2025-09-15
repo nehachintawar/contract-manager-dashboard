@@ -3,11 +3,17 @@
 
 Follow these steps to set up and run the project:
 
-### 2. Install Dependencies
+
+### 1. Clone repo
 
 ```bash
 git clone https://github.com/nehachintawar/contract-manager-dashboard.git
+
+cd contract-manager-dashboard
 ```
+
+
+### 2. Install Dependencies
 
 ```bash
 npm install
@@ -27,3 +33,12 @@ Use the following credentials to log in:
 
 - **Username:** emilys
 - **Password:** emilyspass
+
+## Tech Stacks
+- **ReactJS**
+- **JavaScript**
+- **Tailwind CSS**
+- **Context API**
+
+## External API for User Authentication
+- **DUMMY JSON: https://dummyjson.com/**
